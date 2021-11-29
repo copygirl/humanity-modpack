@@ -1,0 +1,14 @@
+name = "Reroll"
+filename = "reroll-1.3.0-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3452/632/reroll-1.3.0-1.17.1.jar"
+hash-format = "murmur2"
+hash = "2413061148"
+
+[update]
+[update.curseforge]
+file-id = 3452632
+project-id = 401753
+release-channel = "beta"

@@ -1,0 +1,13 @@
+name = "Roundaround's Villager Converting"
+filename = "villagerconverting-0.1.0+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gtsvJo80/versions/0.1.0+1.17.1/villagerconverting-0.1.0+1.17.1.jar"
+hash-format = "sha512"
+hash = "ebfa3abc05ad80baac394e56cb0e3fcaa3568c07deb4d8586cb502641cff365b3ee2733b272335de3add34b7ba2a56a036806a477598df503ddf9fcc3336bacc"
+
+[update]
+[update.modrinth]
+mod-id = "gtsvJo80"
+version = "WmDkkP7H"

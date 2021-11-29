@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/axesareweapons.json5"
+hash = "56922a75f546343cfe7fa5659b15035de9f2039e3f319c6260d2c347dd0c2a17"
+
+[[files]]
+file = "config/combattweaks.json5"
+hash = "255aca2840a5ceefe7a223e115086a9ea4c6db94a3ac1b901dab355cde3e7162"
+
+[[files]]
+file = "config/fabrication/features.ini"
+hash = "543f4ea36294f64a1dca5e286041b5b1b141f8b2eedb54ef4e0cb234fde4ebb1"
+
+[[files]]
+file = "config/quickshulkerconfig.json5"
+hash = "839d5f23f12adfcbc6989e590d8f3e5d51a56500c748ebb28e7f9c945df9a2a0"
+
+[[files]]
+file = "config/reroll.json5"
+hash = "2e91f07877dab9b52b1945cbd1dc698a337fbb304f9bb41eb8f19787aa573b17"
+
+[[files]]
+file = "config/shulkerboxtooltip.json5"
+hash = "a2c277958469fb0b3e046cd7a748fb6c96dc8045e103aa0c8f7cba6eafd2c004"
+
+[[files]]
 file = "docs/icon-curseforge.png"
 hash = "515f86375314a5107668271c84c7fb2766202e3f7f293edf2f02f1925b37fa2a"
 
@@ -11,6 +35,11 @@ hash = "536cb09b80bbe80625eb4a30bc957af18152a32752d1737d62093f2a988ce763"
 [[files]]
 file = "mods/appleskin.toml"
 hash = "26b22828d453705061a4ff731c766e1c5b077c356641ff17c96482591100024f"
+metafile = true
+
+[[files]]
+file = "mods/axes-are-weapons.toml"
+hash = "cf3dd4b77a323a0fc148e72e69c5df91754ced7d694bd1c4f874899a450d06c2"
 metafile = true
 
 [[files]]
@@ -31,6 +60,11 @@ metafile = true
 [[files]]
 file = "mods/brb.toml"
 hash = "dad15697d4939456493d342ef7673cb1391dc47cb7565732dcb6365f7c0a2d7d"
+metafile = true
+
+[[files]]
+file = "mods/cammies-combat-tweaks.toml"
+hash = "a016bfd2a04287c69061ab792f38b1be35eef65a2439e44c8a83ec641ea7f743"
 metafile = true
 
 [[files]]
@@ -59,6 +93,11 @@ hash = "cd6b4dcf40fd4f48f42fd9eeb4bc2d9a1c52b90a74383907e02331b38c2fa8c0"
 metafile = true
 
 [[files]]
+file = "mods/fabrication.toml"
+hash = "a7fc1cf65784590e68fb07d18ef01978e0f89eb2c96087b30640b99402c9a9d8"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.toml"
 hash = "2b42511a66d2c1e67e13fc5fc47b2ccee65fdb751a44e3c651bec23089d05d73"
 metafile = true
@@ -71,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/first-person-model.toml"
 hash = "263269d40791737b87901df55b0ae60c02c3044930d2321b61a1be50a37048c2"
+metafile = true
+
+[[files]]
+file = "mods/grind-enchantments.toml"
+hash = "0d9e6090f1073f931a6a94f8abbd46da6de427616d2d08a690d514ccdf3a3825"
 metafile = true
 
 [[files]]
@@ -119,13 +163,38 @@ hash = "1c1017c08aacfa0d8b6823116fc49b5c922a92fc7b9d7d843d5bd9b26a1a58ce"
 metafile = true
 
 [[files]]
+file = "mods/overpoweredmending.toml"
+hash = "1517a11f4325259e5bb4bb32a3b5ed3ae794713ac54f3956393a7d011609efa3"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.toml"
 hash = "696574aeaeedd70b7ed01407109e20fd29f7c2fe8791a9830d1247613dbe0c6d"
 metafile = true
 
 [[files]]
+file = "mods/quick-shulker.toml"
+hash = "d664c83e0390e509daab9e3b5ff4f9e00cbba2d19aafd339b6d9b28792f34f9d"
+metafile = true
+
+[[files]]
 file = "mods/quilt-loading-screen.toml"
 hash = "13b516440b1c959ff7f81d56e36b55e85d64e13dae457ceb904ee68d53360300"
+metafile = true
+
+[[files]]
+file = "mods/reroll.toml"
+hash = "6fa2b8bf800b87b6d0c5cb6fcd439126bb217b97dd54fc91efa8be5418cdea75"
+metafile = true
+
+[[files]]
+file = "mods/roundaround-villager-converting.toml"
+hash = "f690b1ccba2a72c021479edf52af9b5900ace8dfa1dcdf29424f423e627c1d1f"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.toml"
+hash = "f4a5950a5323517dcd55d5756153e11f4e9dd1ccc1358d080052629473558f05"
 metafile = true
 
 [[files]]
@@ -156,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/statuseffecttimer.toml"
 hash = "35942abad94b49b69bbe037ccbc433af1f827074fd5bca10c7a535c53ca9e4f2"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.toml"
+hash = "26f74f1f5af47fe1d6057567d966e4fba7d666da6efdca301b5fc8b5a1937a75"
 metafile = true
 
 [[files]]
