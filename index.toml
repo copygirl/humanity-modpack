@@ -207,6 +207,11 @@ hash = "0d9e6090f1073f931a6a94f8abbd46da6de427616d2d08a690d514ccdf3a3825"
 metafile = true
 
 [[files]]
+file = "mods/immersiveportals.toml"
+hash = "1be8a14cb98a920f4540c5f5f9d56003faaf911a3e035a4d0976234d5eecac46"
+metafile = true
+
+[[files]]
 file = "mods/indypets.toml"
 hash = "3db1401f6ef703a4668e0f659977f6807a11d609a5bd97bc3d77d0264d89d08c"
 metafile = true
