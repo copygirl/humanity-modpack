@@ -179,11 +179,6 @@ hash = "263269d40791737b87901df55b0ae60c02c3044930d2321b61a1be50a37048c2"
 metafile = true
 
 [[files]]
-file = "mods/full-slabs.toml"
-hash = "47b4bd9f133b40f3b4562105653598a94fd17e9c757c589ba9e5765e8571c245"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.toml"
 hash = "d66b2f7248f5ef2c375afeec2254740080c8e9b27f2d46f7d8c84c85f30c7627"
 metafile = true

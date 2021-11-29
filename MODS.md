@@ -19,7 +19,8 @@
 
 - [Adorn] ![](docs/icon-modrinth.png) - *Decorate your home*
 - [Bedspreads] ![](docs/icon-curseforge.png) - *Allows players to add banner patterns to their beds*
-- [Full Slabs] ![](docs/icon-modrinth.png) - *Adds vertical slabs and mixed horizontal and vertical slabs*
+- ~~[Full Slabs] ![](docs/icon-modrinth.png) - *Adds vertical slabs and mixed horizontal and vertical slabs*~~  
+  **DISABLED**: Indium not compatible with the bundled Sodium version in Iris.
 
 [Adorn]: https://modrinth.com/mod/adorn
 [Bedspreads]: https://www.curseforge.com/minecraft/mc-mods/bedspreads-fabric
