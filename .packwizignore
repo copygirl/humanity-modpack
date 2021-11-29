@@ -1,0 +1,5 @@
+/.git/**
+/.upload/**
+/.multimc/**
+/.gitignore
+/MODS.md

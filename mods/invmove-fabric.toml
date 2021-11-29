@@ -1,0 +1,18 @@
+name = "InvMove (Fabric)"
+filename = "InvMove-fabric-1.17-0.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com//data/McNdqLv2/versions/1.17-0.1.0/InvMove-fabric-1.17-0.1.0.jar"
+hash-format = "sha512"
+hash = "2a0a08d70582c5d0e341e0d60861d1d87af0278d8f35df3c36d43f65d23d5ce9abde2ef85ae8b3099f37604dc027efd6aa56746a9a87f31484c3a3147d373a3f"
+
+[update]
+[update.modrinth]
+mod-id = "McNdqLv2"
+version = "KywwmGRm"
+
+[option]
+description = "Adds the ability to walk around while in inventories"
+optional = true
+default = false

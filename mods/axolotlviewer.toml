@@ -1,0 +1,13 @@
+name = "AxolotlViewer"
+filename = "AxolotlViewer-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yJfkOeg3/versions/1.0.1/AxolotlViewer-1.0.1.jar"
+hash-format = "sha512"
+hash = "c38bb5887f1d7db071ea40c8cea3f5415b8797a2973696072c086302b4969938b443b0b1e9b0c2bd3b08ae2d4a845916b8f3c95cd39fe0bef8e3931db3b0a379"
+
+[update]
+[update.modrinth]
+mod-id = "yJfkOeg3"
+version = "WWznocDC"

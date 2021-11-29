@@ -1,0 +1,18 @@
+name = "Sildur's Vibrant Shaders"
+filename = "Sildur's+Vibrant+Shaders+v1.30+Medium.zip"
+side = "client"
+
+[download]
+url = "https://media.forgecdn.net/files/3526/828/Sildur%27s+Vibrant+Shaders+v1.30+Medium.zip"
+hash-format = "sha512"
+hash = "000da56d8bdc6f29c2e7f2ba153bf73ba6f440e23c0afc12da95dc2c92eaa2540f673ec81b75ea96c2fc2028416539c10d609f05e78f9c5cd3aab925a29ef5ab"
+
+[update]
+[update.curseforge]
+file-id = 3526828
+project-id = 544096
+
+[option]
+description = "Shaderpack for use with Iris"
+optional = true
+default = false

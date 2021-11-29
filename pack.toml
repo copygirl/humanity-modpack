@@ -1,0 +1,12 @@
+name = "Humanity Modpack"
+author = "copygirl, Human"
+version = "0.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b1686080a61c290e20bf06917f15c33038379b34d657c1269110dc5226662433"
+
+[versions]
+fabric = "0.12.5"
+minecraft = "1.17.1"

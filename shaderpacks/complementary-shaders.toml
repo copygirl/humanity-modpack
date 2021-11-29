@@ -1,0 +1,18 @@
+name = "Complementary Shaders"
+filename = "ComplementaryShaders_v4.3.zip"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3538/81/ComplementaryShaders_v4.3.zip"
+hash-format = "sha512"
+hash = "bcd6a3c2b8f3a534e11e441cd9c6cd112609c89f6af3210f5970951876651ebf81e4ab5f116869cc12fc3f6040a809d37c5d71b2be6ef7064c279f2430461819"
+
+[update]
+[update.curseforge]
+file-id = 3538081
+project-id = 385587
+
+[option]
+description = "Shaderpack for use with Iris"
+optional = true
+default = false

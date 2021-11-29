@@ -1,0 +1,19 @@
+name = "First-person Model (Forge/Fabric)"
+filename = "firstperson-fabric-2.1.0-mc1.17.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3519/863/firstperson-fabric-2.1.0-mc1.17.1.jar"
+hash-format = "murmur2"
+hash = "2646149641"
+
+[update]
+[update.curseforge]
+file-id = 3519863
+project-id = 333287
+release-channel = "beta"
+
+[option]
+description = "Enables the third-person Model in first-person"
+optional = true
+default = false

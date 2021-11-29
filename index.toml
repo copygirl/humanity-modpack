@@ -1,0 +1,169 @@
+hash-format = "sha256"
+
+[[files]]
+file = "docs/icon-curseforge.png"
+hash = "515f86375314a5107668271c84c7fb2766202e3f7f293edf2f02f1925b37fa2a"
+
+[[files]]
+file = "docs/icon-modrinth.png"
+hash = "536cb09b80bbe80625eb4a30bc957af18152a32752d1737d62093f2a988ce763"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "26b22828d453705061a4ff731c766e1c5b077c356641ff17c96482591100024f"
+metafile = true
+
+[[files]]
+file = "mods/axolotlviewer.toml"
+hash = "cbd31f3f19d88b26516d907869d76a21e49e2ae1dbd67c9b83c7ce00213baf19"
+metafile = true
+
+[[files]]
+file = "mods/better-enchanted-books.toml"
+hash = "a04f4c4e353aeaa59bee54731e3358e54118251c38fb6a2b2f4ad64995f58095"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.toml"
+hash = "4c2dade9056af3e0ec6fd92f7f13846de225204ed03cc3b39e6d008383edc489"
+metafile = true
+
+[[files]]
+file = "mods/brb.toml"
+hash = "dad15697d4939456493d342ef7673cb1391dc47cb7565732dcb6365f7c0a2d7d"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.toml"
+hash = "53bf6b5ae8f91c716d0927f95be1055a2a49ef1fcd5981f62df932b17ff3c46f"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough.toml"
+hash = "340a8ca66c66907d7cb184e592e944ff32f77baf6a520c09f92a77cf6d7a609e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "1bbb7759542ccebcf1d5157dd889050c371277b8d26f7c1b9b18f0968ad7c33d"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar.toml"
+hash = "220901554a40f3802a86e56df4469fc87c2be3880dfd967231f039e781c16dbf"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "cd6b4dcf40fd4f48f42fd9eeb4bc2d9a1c52b90a74383907e02331b38c2fa8c0"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.toml"
+hash = "2b42511a66d2c1e67e13fc5fc47b2ccee65fdb751a44e3c651bec23089d05d73"
+metafile = true
+
+[[files]]
+file = "mods/figura.toml"
+hash = "6522cd950b9b686e094c13ce9f5c69c1794dde79665659e06500270635bb213a"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.toml"
+hash = "263269d40791737b87901df55b0ae60c02c3044930d2321b61a1be50a37048c2"
+metafile = true
+
+[[files]]
+file = "mods/invmove-fabric.toml"
+hash = "6a62013054da65b9b058a34c19a3ddf30148865611e224538ef6e9650c9ad3e6"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.toml"
+hash = "8d95c3d120a22391859e8511c838cc8a3b744227f0fc3d3ee26e2b61b26c4b9c"
+metafile = true
+
+[[files]]
+file = "mods/item-scroller.toml"
+hash = "d07d686ca56d687025ad8e076c9fa6b49045edf68742d186bfb327461757d8bc"
+metafile = true
+
+[[files]]
+file = "mods/lambdacontrols.toml"
+hash = "a2569c129ac03a9c9bc664b1e40a1c65f6d310232d3a3e75889a7f92a12bc2e9"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "e1aea49ed8a6f2af853793ee649e69d27d872b080c4a4a30264a42022a4eabed"
+metafile = true
+
+[[files]]
+file = "mods/malilib.toml"
+hash = "01e8252fcaa9657249a071fb0225b030b552d276e81695c7d2e18e211120f986"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "fd6a42e8566be9f95475d3f95e75798c17ef6b30c9cc57530dcde44c28670ef8"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.toml"
+hash = "6bea7fc4c9738fdc9be15f08d49a10a1eb0e4c1209c2dbeee8b5b54f4a1dc6c2"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.toml"
+hash = "1c1017c08aacfa0d8b6823116fc49b5c922a92fc7b9d7d843d5bd9b26a1a58ce"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.toml"
+hash = "696574aeaeedd70b7ed01407109e20fd29f7c2fe8791a9830d1247613dbe0c6d"
+metafile = true
+
+[[files]]
+file = "mods/quilt-loading-screen.toml"
+hash = "13b516440b1c959ff7f81d56e36b55e85d64e13dae457ceb904ee68d53360300"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "c7bc85d088c4b635b14806526ccc035a150ef291400fbfa68e79ad52e63ebccd"
+metafile = true
+
+[[files]]
+file = "mods/sodium+iris.toml"
+hash = "06da29b1a00fc0d311802fac523ef09ac47d6ce631e796a06c5524ea57abf531"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "2c7eb7df45065f4602b39e3a2f78f426469961e57f91a906bec7763099c226e9"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.toml"
+hash = "59e02d12fd353d889c41e6de34a4be433fdcc68d3781578bc79dcb821d1932cc"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "cb9176439af93f4215bc9eb96ddcfa02566ea41aa5c1b6e230a66bfd23299255"
+metafile = true
+
+[[files]]
+file = "mods/statuseffecttimer.toml"
+hash = "35942abad94b49b69bbe037ccbc433af1f827074fd5bca10c7a535c53ca9e4f2"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-shaders.toml"
+hash = "d871bd1c77ee45e4e4b4eb6047732d3300c0a729c4daf68767e4cfb75376b05a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-vibrant-shaders.toml"
+hash = "f4754a56efd761b7d740e1986be364b20246c4b8549fc8d00a060fb591aec4b8"
+metafile = true
