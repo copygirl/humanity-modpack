@@ -1,4 +1,4 @@
-name = "Sodium + Iris Shaders"
+name = "Iris Shaders"
 filename = "iris-and-sodium-mc1.17-1.1.2+build.9.jar"
 side = "client"
 
@@ -15,4 +15,4 @@ version = "YwBoFV6P"
 [option]
 description = "A shaders mod, backward compatible with OptiFine shaders"
 optional = true
-default = false
+default = true

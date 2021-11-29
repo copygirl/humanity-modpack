@@ -178,9 +178,8 @@
 - [Item Model Fix] ![](docs/icon-curseforge.png) - *Fixes those transparent lines in all generated item models*
 - [Not Enough Animations] ![](docs/icon-curseforge.png) - *Brings missing third-person animations from first-person, or improves them*
 - [Quilt Loading Screen] ![](docs/icon-modrinth.png) - *A loading screen based off of The Quilt Community's server banner*
-- [Sodium] ![](docs/icon-modrinth.png) (recommended) - *Rendering engine replacement that greatly improves frame rates*
-- Sodium + [Iris Shaders] ![](docs/icon-modrinth.png) (optional) - *A shaders mod, backward compatible with OptiFine shaders*  
-  **WARNING:** Iris is bundled with Sodium. If you enable this, disable the standalone Sodium mod!
+- [Iris Shaders] ![](docs/icon-modrinth.png) (recommended) - *A shaders mod, backward compatible with OptiFine shaders*  
+  Bundled with [Sodium] ![](docs/icon-modrinth.png) - *Rendering engine replacement that greatly improves frame rates*
     - [Complementary Shaders] ![](docs/icon-curseforge.png) (optional)
     - [Sildur's Vibrant Shaders] ![](docs/icon-curseforge.png) (optional)
 

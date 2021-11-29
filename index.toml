@@ -29,14 +29,6 @@ file = "config/shulkerboxtooltip.json5"
 hash = "a2c277958469fb0b3e046cd7a748fb6c96dc8045e103aa0c8f7cba6eafd2c004"
 
 [[files]]
-file = "docs/icon-curseforge.png"
-hash = "515f86375314a5107668271c84c7fb2766202e3f7f293edf2f02f1925b37fa2a"
-
-[[files]]
-file = "docs/icon-modrinth.png"
-hash = "536cb09b80bbe80625eb4a30bc957af18152a32752d1737d62093f2a988ce763"
-
-[[files]]
 file = "mods/adorn.toml"
 hash = "0dfcd51063afe510f827a1dc74ec77dff9d945ab97e4ed484d8f63530198f4f3"
 metafile = true
@@ -227,6 +219,11 @@ hash = "6a62013054da65b9b058a34c19a3ddf30148865611e224538ef6e9650c9ad3e6"
 metafile = true
 
 [[files]]
+file = "mods/iris.toml"
+hash = "0fe82ea92da80b8d1742bedf4d7b72742a97e338aa4d7e3ac3ee3eba5d649114"
+metafile = true
+
+[[files]]
 file = "mods/iron-bundles.toml"
 hash = "88184131eebc7426486b10d1b85e6f7e45997c1468b894ab94c8dceb3b3f8320"
 metafile = true
@@ -364,16 +361,6 @@ metafile = true
 [[files]]
 file = "mods/sky-villages.toml"
 hash = "ebf079e351894b4c1593d6409f83c5518b8e2bfb41716f9bcdcc79a43baff0fc"
-metafile = true
-
-[[files]]
-file = "mods/sodium+iris.toml"
-hash = "06da29b1a00fc0d311802fac523ef09ac47d6ce631e796a06c5524ea57abf531"
-metafile = true
-
-[[files]]
-file = "mods/sodium.toml"
-hash = "2c7eb7df45065f4602b39e3a2f78f426469961e57f91a906bec7763099c226e9"
 metafile = true
 
 [[files]]
