@@ -14,7 +14,11 @@ hash = "543f4ea36294f64a1dca5e286041b5b1b141f8b2eedb54ef4e0cb234fde4ebb1"
 
 [[files]]
 file = "config/quickshulkerconfig.json5"
-hash = "839d5f23f12adfcbc6989e590d8f3e5d51a56500c748ebb28e7f9c945df9a2a0"
+hash = "bfb6e57cc76f7d33a10d683d842432cdd8cf7cfe5e4c333af23b1f43e288284c"
+
+[[files]]
+file = "config/quilt-loading-screen.json"
+hash = "c9b843a1d89fbd86aa5e10f015d6ebad265897bfac6f2642f1f46a3c23073e86"
 
 [[files]]
 file = "config/reroll.json5"
@@ -33,8 +37,28 @@ file = "docs/icon-modrinth.png"
 hash = "536cb09b80bbe80625eb4a30bc957af18152a32752d1737d62093f2a988ce763"
 
 [[files]]
+file = "mods/adorn.toml"
+hash = "0dfcd51063afe510f827a1dc74ec77dff9d945ab97e4ed484d8f63530198f4f3"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.toml"
+hash = "31c3472070febbecdf528e6f37adc86b3137cb460d15124fce10f9c9303df59f"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "26b22828d453705061a4ff731c766e1c5b077c356641ff17c96482591100024f"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "c1ac0ea5003f230698651f3ea3a3a1d53e87de3add18c41409bf29d7f1d53f3a"
+metafile = true
+
+[[files]]
+file = "mods/artifacts-fabric.toml"
+hash = "090d6d20cd5f31e63bc5fddbc7fd5823706018de6a9f181fd39e26af58e3ea97"
 metafile = true
 
 [[files]]
@@ -48,8 +72,28 @@ hash = "cbd31f3f19d88b26516d907869d76a21e49e2ae1dbd67c9b83c7ce00213baf19"
 metafile = true
 
 [[files]]
+file = "mods/bclib.toml"
+hash = "2967747014f1da9e73c42c4f6c9ef9832f8fd492da38cde2b8eec8ea304b8020"
+metafile = true
+
+[[files]]
+file = "mods/bedspreads-fabric.toml"
+hash = "a05397f3146f87e302d7c36b6982393c4ac688453b30ccf9d24acb6393ef24d6"
+metafile = true
+
+[[files]]
+file = "mods/beebuddy.toml"
+hash = "9ee2943166a3a52d6934951a2197763b18adb894b337245014b792943fc4ba9d"
+metafile = true
+
+[[files]]
 file = "mods/better-enchanted-books.toml"
 hash = "a04f4c4e353aeaa59bee54731e3358e54118251c38fb6a2b2f4ad64995f58095"
+metafile = true
+
+[[files]]
+file = "mods/betterend.toml"
+hash = "6cdf81febba6cbc1e628676002b3559a6662635a67b087d4462b4cfd54130901"
 metafile = true
 
 [[files]]
@@ -73,6 +117,11 @@ hash = "53bf6b5ae8f91c716d0927f95be1055a2a49ef1fcd5981f62df932b17ff3c46f"
 metafile = true
 
 [[files]]
+file = "mods/chickensshed.toml"
+hash = "0d511e8af533173a6c79f324b2eddd5637a9916eb5e070b57725bad2e76389cb"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough.toml"
 hash = "340a8ca66c66907d7cb184e592e944ff32f77baf6a520c09f92a77cf6d7a609e"
 metafile = true
@@ -83,13 +132,33 @@ hash = "1bbb7759542ccebcf1d5157dd889050c371277b8d26f7c1b9b18f0968ad7c33d"
 metafile = true
 
 [[files]]
+file = "mods/dawn.toml"
+hash = "e97a52c3d3abbb1c0a5c30fd0f54ea3027c336e331bbd0b37a3ebe701310410f"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar.toml"
 hash = "220901554a40f3802a86e56df4469fc87c2be3880dfd967231f039e781c16dbf"
 metafile = true
 
 [[files]]
+file = "mods/dimension-fix-some-forge-patches-ported.toml"
+hash = "5566ded4558621c4affd0d93e70fba94fef6e9ce4018f577f5082addb25826e4"
+metafile = true
+
+[[files]]
+file = "mods/ducts.toml"
+hash = "3f1974c4e3544160a47881b359b14af0201f37e0531cf32fcbda8831b9a05afd"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "cd6b4dcf40fd4f48f42fd9eeb4bc2d9a1c52b90a74383907e02331b38c2fa8c0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "2b634fc55b8dbb2dd91049f60073cd2fc90ae7d26287ff34c4973fd66fb259d6"
 metafile = true
 
 [[files]]
@@ -103,6 +172,11 @@ hash = "2b42511a66d2c1e67e13fc5fc47b2ccee65fdb751a44e3c651bec23089d05d73"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-fabric.toml"
+hash = "dd240a6c8a05b016b2baa3657b203dfa29f760259715d2fe5a56bb6798d4434a"
+metafile = true
+
+[[files]]
 file = "mods/figura.toml"
 hash = "6522cd950b9b686e094c13ce9f5c69c1794dde79665659e06500270635bb213a"
 metafile = true
@@ -113,13 +187,43 @@ hash = "263269d40791737b87901df55b0ae60c02c3044930d2321b61a1be50a37048c2"
 metafile = true
 
 [[files]]
+file = "mods/full-slabs.toml"
+hash = "47b4bd9f133b40f3b4562105653598a94fd17e9c757c589ba9e5765e8571c245"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.toml"
+hash = "d66b2f7248f5ef2c375afeec2254740080c8e9b27f2d46f7d8c84c85f30c7627"
+metafile = true
+
+[[files]]
+file = "mods/gildedarmor.toml"
+hash = "3f6531cd6fd46d6c92cbd39299ad4072ef1c13aa08683830439ac19583ff9e83"
+metafile = true
+
+[[files]]
 file = "mods/grind-enchantments.toml"
 hash = "0d9e6090f1073f931a6a94f8abbd46da6de427616d2d08a690d514ccdf3a3825"
 metafile = true
 
 [[files]]
+file = "mods/indypets.toml"
+hash = "3db1401f6ef703a4668e0f659977f6807a11d609a5bd97bc3d77d0264d89d08c"
+metafile = true
+
+[[files]]
+file = "mods/inventory-hotswap.toml"
+hash = "5d5605062649aeb77888f77632bb6e8a3f401b736e58614ae634e88fe6576277"
+metafile = true
+
+[[files]]
 file = "mods/invmove-fabric.toml"
 hash = "6a62013054da65b9b058a34c19a3ddf30148865611e224538ef6e9650c9ad3e6"
+metafile = true
+
+[[files]]
+file = "mods/iron-bundles.toml"
+hash = "88184131eebc7426486b10d1b85e6f7e45997c1468b894ab94c8dceb3b3f8320"
 metafile = true
 
 [[files]]
@@ -138,6 +242,11 @@ hash = "a2569c129ac03a9c9bc664b1e40a1c65f6d310232d3a3e75889a7f92a12bc2e9"
 metafile = true
 
 [[files]]
+file = "mods/linked-storage.toml"
+hash = "3743087574aa476252f47aa8200bee939e5ee9c1a4ffe78a8a85a8cdd8efe9fb"
+metafile = true
+
+[[files]]
 file = "mods/lithium.toml"
 hash = "e1aea49ed8a6f2af853793ee649e69d27d872b080c4a4a30264a42022a4eabed"
 metafile = true
@@ -148,8 +257,18 @@ hash = "01e8252fcaa9657249a071fb0225b030b552d276e81695c7d2e18e211120f986"
 metafile = true
 
 [[files]]
+file = "mods/minefck.toml"
+hash = "f19f38d89e6f952e31a9698142410f89c15abc9b5754eb981c34f9c81d0b6eb0"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "fd6a42e8566be9f95475d3f95e75798c17ef6b30c9cc57530dcde44c28670ef8"
+metafile = true
+
+[[files]]
+file = "mods/mooblooms.toml"
+hash = "1659bee24bfd3b6874cbd9244ce39e3d5025ab25bbac3e8b1d119f722695c254"
 metafile = true
 
 [[files]]
@@ -168,6 +287,21 @@ hash = "1517a11f4325259e5bb4bb32a3b5ed3ae794713ac54f3956393a7d011609efa3"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.toml"
+hash = "fb0673ce50b70be8fc8957f393fe352bddee83b25a074dc82205af2d2a7dc561"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.toml"
+hash = "f2822a7d16e7084636ac226b548d4f51058b75dc60a77dc97ad68783b73ac2f3"
+metafile = true
+
+[[files]]
+file = "mods/pitch-dark.toml"
+hash = "526e0e28b193bd6a45e060ac7f20c9c1869e7bc466f38751dc1b01007f970b7d"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.toml"
 hash = "696574aeaeedd70b7ed01407109e20fd29f7c2fe8791a9830d1247613dbe0c6d"
 metafile = true
@@ -183,8 +317,28 @@ hash = "13b516440b1c959ff7f81d56e36b55e85d64e13dae457ceb904ee68d53360300"
 metafile = true
 
 [[files]]
+file = "mods/rats-mischief.toml"
+hash = "fe80d4ad0a09d8d7721160248556b4ba3788b939f48676100694ddcd24f97b5d"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.toml"
+hash = "d61a8e2912f776d5a773dd3e8ecea6a359a4639660e9b4728b89ca74cfc7f24c"
+metafile = true
+
+[[files]]
 file = "mods/reroll.toml"
 hash = "6fa2b8bf800b87b6d0c5cb6fcd439126bb217b97dd54fc91efa8be5418cdea75"
+metafile = true
+
+[[files]]
+file = "mods/respawnable-pets.toml"
+hash = "02fb8ce9945ba1cacb76f6cd3a291b96467bcc7656126239889c52475633ff0d"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "dafb5b00a0a739e9ad94502d20db41eb43717af8630051c753c9440a667693f4"
 metafile = true
 
 [[files]]
@@ -203,6 +357,11 @@ hash = "c7bc85d088c4b635b14806526ccc035a150ef291400fbfa68e79ad52e63ebccd"
 metafile = true
 
 [[files]]
+file = "mods/sky-villages.toml"
+hash = "ebf079e351894b4c1593d6409f83c5518b8e2bfb41716f9bcdcc79a43baff0fc"
+metafile = true
+
+[[files]]
 file = "mods/sodium+iris.toml"
 hash = "06da29b1a00fc0d311802fac523ef09ac47d6ce631e796a06c5524ea57abf531"
 metafile = true
@@ -218,6 +377,11 @@ hash = "59e02d12fd353d889c41e6de34a4be433fdcc68d3781578bc79dcb821d1932cc"
 metafile = true
 
 [[files]]
+file = "mods/stackablepotions.toml"
+hash = "33ce70817b66ac4e731dd27c7daf47a085d9c2b1bd3879e67914916fe7ce3945"
+metafile = true
+
+[[files]]
 file = "mods/starlight.toml"
 hash = "cb9176439af93f4215bc9eb96ddcfa02566ea41aa5c1b6e230a66bfd23299255"
 metafile = true
@@ -228,8 +392,68 @@ hash = "35942abad94b49b69bbe037ccbc433af1f827074fd5bca10c7a535c53ca9e4f2"
 metafile = true
 
 [[files]]
+file = "mods/stockpile.toml"
+hash = "946d1f31af0dbd9d7264f9eae3745374734b1dc00e9f39d8e3567e2871d14d16"
+metafile = true
+
+[[files]]
+file = "mods/sync-fabric.toml"
+hash = "3626ada818ebd6a45ecbd5f43a08385c5a5319a8132479714c7bb1fa9c20d0a2"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.toml"
 hash = "26f74f1f5af47fe1d6057567d966e4fba7d666da6efdca301b5fc8b5a1937a75"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-fabric.toml"
+hash = "ba45f34a9018ff5a9737b693f393c5dde767aa75dc2a0b377c6b7642e8f44a95"
+metafile = true
+
+[[files]]
+file = "mods/universal_ores.toml"
+hash = "d27cbbe36da059f3e9080ed2a42550ec97b22fd7152eb78df6d254b2c70d01ae"
+metafile = true
+
+[[files]]
+file = "mods/valleycraft.toml"
+hash = "5fb391d3b4ab7a95854547b0cda78026970fdded0f834dcb1952887a4871874d"
+metafile = true
+
+[[files]]
+file = "mods/victus.toml"
+hash = "cae6c3518330a0c0eccb17d4fe3cbc66a8817e9283c65d46309cf5e5943b9699"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.toml"
+hash = "9f9d2c70f8beb557f884d468ddaa54f9973cec4557e2c12bafbb178ad770a773"
+metafile = true
+
+[[files]]
+file = "mods/wolves-with-armor.toml"
+hash = "70f568904b33011cb85d85096f3c89c97b763e6a77d1be6aa19a514c20578033"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-fabric.toml"
+hash = "86a49fdc8ed90a9af12fa59988693d1430f4e050f2ebf133ed82ea06098b520d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons-fabric.toml"
+hash = "46a8a59fba736cbdb394d17a7411d1711ff6a253ad594f3db9ffa682f621a5b6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-fabric.toml"
+hash = "1c35e1ca09d86fb7300c17aa8e9ff064e5fa358ca333d6ca3abb9df45537f4c6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds-fabric.toml"
+hash = "06bfe7a5e576133d17efd406e026dfa2e869d3fdcf7beab59579fc008c5779ea"
 metafile = true
 
 [[files]]

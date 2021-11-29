@@ -1,0 +1,13 @@
+name = "Sync (Fabric)"
+filename = "sync-mc1.17.1-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OrJTMhHF/versions/mc1.17.1-2.0/sync-mc1.17.1-2.0.jar"
+hash-format = "sha512"
+hash = "11b63f726201a5228345098572621b008dc096ddf7d9289c3ac91cdd29678e62f1a6ef02e98860ff88a30b57920378af237e64f00d134cfbb478fcd26536bd8e"
+
+[update]
+[update.modrinth]
+mod-id = "OrJTMhHF"
+version = "joUbVHgb"

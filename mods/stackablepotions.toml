@@ -1,0 +1,14 @@
+name = "StackablePotions"
+filename = "Stackable Potions-FABRIC-1.17.x-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3348/446/Stackable Potions-FABRIC-1.17.x-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3615591591"
+
+[update]
+[update.curseforge]
+file-id = 3348446
+project-id = 396596
+release-channel = "beta"

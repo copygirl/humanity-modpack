@@ -1,0 +1,13 @@
+name = "Minef*ck"
+filename = "minefuck-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FNi0UurD/versions/1.2.0/minefuck-1.2.0.jar"
+hash-format = "sha512"
+hash = "8e6a20cdf6bec1b3dfe372594b852a94e407f7fa68eee3a8948654a727db7c1c79c90319ee6ffdc7f504f9f4bc873a2704c0245cdaf0ec7ec28a545b054025f5"
+
+[update]
+[update.modrinth]
+mod-id = "FNi0UurD"
+version = "qO5gfwPY"

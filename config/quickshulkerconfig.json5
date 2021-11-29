@@ -1,6 +1,6 @@
 {
 	// Activation key
-	"keybinding": "key.keyboard.left.shift",
+	"keybinding": "key.keyboard.unknown",
 	// Right Clicking with shulker in hand opens it
 	"rightClickToOpen": false,
 	// Hitting the keybind with shulker in hand opens it
@@ -10,7 +10,7 @@
 	// Right Clicking a shulker in your inv opens it
 	"rightClickInv": true,
 	// Right Clicking the opened shulker in your inv closes it
-	"rightClickClose": false,
+	"rightClickClose": true,
 	// Right Clicking a shulker with an item inserts it
 	"supportsBundlingInsert": true,
 	// Right Clicking an item with a shulker inserts it

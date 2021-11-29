@@ -1,0 +1,14 @@
+name = "Farmer's Delight [Fabric]"
+filename = "farmers-delight-fabric-1.17.1-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3531/640/farmers-delight-fabric-1.17.1-0.1.3.jar"
+hash-format = "murmur2"
+hash = "122617621"
+
+[update]
+[update.curseforge]
+file-id = 3531640
+project-id = 482834
+release-channel = "beta"
