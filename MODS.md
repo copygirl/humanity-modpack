@@ -1,15 +1,19 @@
 ## Content
 
 - [Artifacts] ![](docs/icon-curseforge.png) - *Aims to make exploration more rewarding by adding various powerful items*
+- [Charm] ![](docs/icon-modrinth.png) - *Core game changes in keeping with the Vanilla feel*
 - [Farmer's Delight] ![](docs/icon-curseforge.png) - *Gently expands upon farming and cooking in Minecraft*
 - [Immersive Portals] ![](docs/icon-modrinth.png) - *See through portals and teleport seamlessly*
+- [KubeJS] ![](docs/icon-curseforge.png) - *Create scripts in JavaScript to add and modify content*
 - [Rat's Mischief] ![](docs/icon-curseforge.png) - *About rats and mechanics surrounding them*
 - [Sync] ![](docs/icon-modrinth.png) - *One mind. Many bodies.*
 - [ValleyCraft] ![](docs/icon-modrinth.png) - *Farming & cooking overhaul with a dash of exploration*
 
 [Artifacts]: https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric
+[Charm]: https://modrinth.com/mod/charm
 [Farmer's Delight]: https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric
 [Immersive Portals]: https://modrinth.com/mod/immersiveportals
+[KubeJS]: https://www.curseforge.com/minecraft/mc-mods/kubejs-fabric
 [Rat's Mischief]: https://www.curseforge.com/minecraft/mc-mods/rats-mischief
 [Sync]: https://modrinth.com/mod/sync-fabric
 [ValleyCraft]: https://modrinth.com/mod/valleycraft
@@ -30,8 +34,11 @@
 ## World
 
 - [BetterEnd] ![](docs/icon-curseforge.png) - *Adds new biomes into the End and modifying existing ones*
+- [Lakeside] ![](docs/icon-modrinth.png) - *A revamp for Minecraft's lakes*
+- [Mo' Structures] ![](docs/icon-modrinth.png) - *Carefully designed structures to enrich your world*
 - [Repurposed Structures] ![](docs/icon-modrinth.png) - *More variations of Vanilla structures and features*
 - [Sky Villages] ![](docs/icon-modrinth.png) - *Explore massive and beautiful villages in the sky*
+- [Stoneholm] ![](docs/icon-modrinth.png) - *Underground Villages*
 - [Universal Ores] ![](docs/icon-modrinth.png) - *Adds ores variants for andesite, diorite, granite and tuff*
 - [When Dungeons Arise] ![](docs/icon-modrinth.png) - *Various elegant and hostile roguelike dungeons and structures*
 - [YUNG's Better Dungeons] ![](docs/icon-curseforge.png) - *A complete redesign of Minecraft's dungeons like never before*
@@ -39,8 +46,11 @@
 - [YUNG's Better Strongholds] ![](docs/icon-curseforge.png) - *A complete redesign of Minecraft strongholds like never before*
 
 [BetterEnd]: https://www.curseforge.com/minecraft/mc-mods/betterend
+[Lakeside]: https://modrinth.com/mod/lakeside
+[Mo' Structures]: https://modrinth.com/mod/mo-structures
 [Repurposed Structures]: https://modrinth.com/mod/repurposed-structures-fabric
 [Sky Villages]: https://modrinth.com/mod/sky-villages
+[Stoneholm]: https://modrinth.com/mod/stoneholm
 [Universal Ores]: https://modrinth.com/mod/universal_ores
 [When Dungeons Arise]: https://modrinth.com/mod/when-dungeons-arise
 [YUNG's Better Dungeons]: https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric

@@ -1,0 +1,6 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": { "item": "minecraft:dark_oak_planks" },
+    "result": "valley:ladder_dark",
+    "count": 1
+}

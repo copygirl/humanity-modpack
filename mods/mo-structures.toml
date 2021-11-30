@@ -1,0 +1,13 @@
+name = "Mo' Structures"
+filename = "mostructures-1.3.0-pre1-1.17.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PTGd6dWp/versions/1.3.0-pre1-1.17.1/mostructures-1.3.0-pre1-1.17.1-fabric.jar"
+hash-format = "sha512"
+hash = "c5a96fc92b6cd0b2f5809edc3275e2af4909bdbaab60d593973f2e50d8602adf547a1269bf74a38c5216e7e67c21ac7a69f2fcca5be43397fc1e3f704206ae10"
+
+[update]
+[update.modrinth]
+mod-id = "PTGd6dWp"
+version = "jZbz0Vo3"

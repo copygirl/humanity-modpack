@@ -1,0 +1,6 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": { "item": "minecraft:birch_planks" },
+    "result": "valley:ladder_birch",
+    "count": 1
+}
