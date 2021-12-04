@@ -1,19 +1,18 @@
 name = "Sound Physics Remastered"
-filename = "soundphysics-fabric-1.17.1-1.0.2.jar"
+filename = "soundphysics-fabric-1.17.1-1.0.3.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3511/787/soundphysics-fabric-1.17.1-1.0.2.jar"
+url = "https://edge.forgecdn.net/files/3546/530/soundphysics-fabric-1.17.1-1.0.3.jar"
 hash-format = "murmur2"
-hash = "3344077802"
+hash = "927527877"
 
 [update]
 [update.curseforge]
-file-id = 3511787
+file-id = 3546530
 project-id = 535489
 release-channel = "beta"
 
 [option]
-description = "Provides realistic sound attenuation, reverberation, and absorption through blocks"
 optional = true
-default = false
+description = "Provides realistic sound attenuation, reverberation, and absorption through blocks"

@@ -33,6 +33,10 @@ file = "kubejs/assets/valley/lang/en_us.json"
 hash = "d26f5820557f1eaef8bfc522e30c7631e743256ccfe47f85b2e929f7e24eac35"
 
 [[files]]
+file = "kubejs/client_scripts/valleycraft_hide_tables.js"
+hash = "1b4e5a6537f93c92c9a4e4f0ff55956790e8c3b377c45f696868d070433c29e9"
+
+[[files]]
 file = "kubejs/data/kubejs/recipes/woodcutter/sturdy_ladder/acacia.json"
 hash = "93ce2800174c58b7ca21adb715c355ef07b2af012b37d467392c4fd639e67295"
 
@@ -65,6 +69,38 @@ file = "kubejs/data/kubejs/recipes/woodcutter/sturdy_ladder/warped.json"
 hash = "fb994d934d2295e0212dd8a6c0437f2a1af520f82854ccc4d811daf5c4f9d3d0"
 
 [[files]]
+file = "kubejs/data/valley/recipes/table_acacia.json"
+hash = "d914176fd50bd7f565700006a31aa97b79d3ad17cee20c8e5ff2061d5cb74817"
+
+[[files]]
+file = "kubejs/data/valley/recipes/table_birch.json"
+hash = "d914176fd50bd7f565700006a31aa97b79d3ad17cee20c8e5ff2061d5cb74817"
+
+[[files]]
+file = "kubejs/data/valley/recipes/table_crimson.json"
+hash = "d914176fd50bd7f565700006a31aa97b79d3ad17cee20c8e5ff2061d5cb74817"
+
+[[files]]
+file = "kubejs/data/valley/recipes/table_dark_oak.json"
+hash = "d914176fd50bd7f565700006a31aa97b79d3ad17cee20c8e5ff2061d5cb74817"
+
+[[files]]
+file = "kubejs/data/valley/recipes/table_jungle.json"
+hash = "d914176fd50bd7f565700006a31aa97b79d3ad17cee20c8e5ff2061d5cb74817"
+
+[[files]]
+file = "kubejs/data/valley/recipes/table_oak.json"
+hash = "d914176fd50bd7f565700006a31aa97b79d3ad17cee20c8e5ff2061d5cb74817"
+
+[[files]]
+file = "kubejs/data/valley/recipes/table_spruce.json"
+hash = "d914176fd50bd7f565700006a31aa97b79d3ad17cee20c8e5ff2061d5cb74817"
+
+[[files]]
+file = "kubejs/data/valley/recipes/table_warped.json"
+hash = "d914176fd50bd7f565700006a31aa97b79d3ad17cee20c8e5ff2061d5cb74817"
+
+[[files]]
 file = "kubejs/server_scripts/valleycraft_ladders.js"
 hash = "b47034c36fd23212059f27ec76f49a295b37d2cab2d185382c191d31fe933f21"
 
@@ -75,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.toml"
-hash = "31c3472070febbecdf528e6f37adc86b3137cb460d15124fce10f9c9303df59f"
+hash = "bc95dd4e701a0d22edbbc1fb8ef24b009c7a5390866babcb8f67e53b2f4e8bb9"
 metafile = true
 
 [[files]]
@@ -105,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.toml"
-hash = "2967747014f1da9e73c42c4f6c9ef9832f8fd492da38cde2b8eec8ea304b8020"
+hash = "efee8ff92d0f6812bcdfa25829aa60dd3f9486c9d3261f37978a91beccba2b62"
 metafile = true
 
 [[files]]
@@ -125,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.toml"
-hash = "6cdf81febba6cbc1e628676002b3559a6662635a67b087d4462b4cfd54130901"
+hash = "1c54537f719189251a5695c1355a2219f7587239907ec91ae44555cbdf08a1d6"
 metafile = true
 
 [[files]]
@@ -135,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/brb.toml"
-hash = "dad15697d4939456493d342ef7673cb1391dc47cb7565732dcb6365f7c0a2d7d"
+hash = "0bace4d1618fa7da72198e8a719b8bd3effa2d9a607a104b8853a8f0091b9f5f"
 metafile = true
 
 [[files]]
@@ -169,6 +205,11 @@ hash = "1bbb7759542ccebcf1d5157dd889050c371277b8d26f7c1b9b18f0968ad7c33d"
 metafile = true
 
 [[files]]
+file = "mods/collective-fabric.toml"
+hash = "82f875fc1830bab79df853cf1a7917b7642449c98c513bb9a2774ef66908e824"
+metafile = true
+
+[[files]]
 file = "mods/dawn.toml"
 hash = "e97a52c3d3abbb1c0a5c30fd0f54ea3027c336e331bbd0b37a3ebe701310410f"
 metafile = true
@@ -184,13 +225,23 @@ hash = "5566ded4558621c4affd0d93e70fba94fef6e9ce4018f577f5082addb25826e4"
 metafile = true
 
 [[files]]
+file = "mods/double-jump-mod.toml"
+hash = "cde7d54c0c0dcac547a78cd5d4668ca5609d55eacfbaa1ff5c787d5e0abdc83b"
+metafile = true
+
+[[files]]
 file = "mods/ducts.toml"
 hash = "3f1974c4e3544160a47881b359b14af0201f37e0531cf32fcbda8831b9a05afd"
 metafile = true
 
 [[files]]
+file = "mods/easyautocrafting.toml"
+hash = "f1b2fa95b8dc1bbfca4b20481f360dca46abd5f691e71bd2c800c1e6588cc377"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
-hash = "cd6b4dcf40fd4f48f42fd9eeb4bc2d9a1c52b90a74383907e02331b38c2fa8c0"
+hash = "645ac8b3157f706f1fabbd8c2ef8934736758f39dd5a43f07493d8afdd7ac10b"
 metafile = true
 
 [[files]]
@@ -200,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.toml"
-hash = "a7fc1cf65784590e68fb07d18ef01978e0f89eb2c96087b30640b99402c9a9d8"
+hash = "ef6b137904b1fc22b5ad106e36ab4985d931474477c80f22e28bc52ce02da7f7"
 metafile = true
 
 [[files]]
@@ -224,8 +275,13 @@ hash = "263269d40791737b87901df55b0ae60c02c3044930d2321b61a1be50a37048c2"
 metafile = true
 
 [[files]]
+file = "mods/full-slabs.toml"
+hash = "47b4bd9f133b40f3b4562105653598a94fd17e9c757c589ba9e5765e8571c245"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.toml"
-hash = "d66b2f7248f5ef2c375afeec2254740080c8e9b27f2d46f7d8c84c85f30c7627"
+hash = "79f1d5f2d3292d9363096e513ecd3d975f3beaf97e7aa3affc83c326af9eeb39"
 metafile = true
 
 [[files]]
@@ -239,18 +295,38 @@ hash = "0d9e6090f1073f931a6a94f8abbd46da6de427616d2d08a690d514ccdf3a3825"
 metafile = true
 
 [[files]]
+file = "mods/here-be-no-dragons.toml"
+hash = "b521cb1efedc7ce0443e6df6ea00c10beb0000c769f36812840ba83abc7aa520"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-mod.toml"
+hash = "8be00088739b93d98f5398e55fa10b08b27e876535a6f758f06548d6ce6384be"
+metafile = true
+
+[[files]]
 file = "mods/immersiveportals.toml"
 hash = "1be8a14cb98a920f4540c5f5f9d56003faaf911a3e035a4d0976234d5eecac46"
 metafile = true
 
 [[files]]
+file = "mods/indium.toml"
+hash = "2b199deceff30e132074d9850f16e5ff990808eabf36a5ba95af0f521a2eb85f"
+metafile = true
+
+[[files]]
 file = "mods/indypets.toml"
-hash = "3db1401f6ef703a4668e0f659977f6807a11d609a5bd97bc3d77d0264d89d08c"
+hash = "a6e4a146d99ce815c0f506d6048f9d4d79493987d8f190be49ec86f10e15674f"
 metafile = true
 
 [[files]]
 file = "mods/inventory-hotswap.toml"
 hash = "5d5605062649aeb77888f77632bb6e8a3f401b736e58614ae634e88fe6576277"
+metafile = true
+
+[[files]]
+file = "mods/inventory-totem-fabric.toml"
+hash = "8a72d14a94420036c8b5b3678961804961018ab2591f2dbe6a4da7d1a366c0d4"
 metafile = true
 
 [[files]]
@@ -260,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "0fe82ea92da80b8d1742bedf4d7b72742a97e338aa4d7e3ac3ee3eba5d649114"
+hash = "3a9aaab05ac782481f78b00e3239db63aea540fce7ab2cee421bfce4e3d03a0e"
 metafile = true
 
 [[files]]
@@ -275,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.toml"
-hash = "d07d686ca56d687025ad8e076c9fa6b49045edf68742d186bfb327461757d8bc"
+hash = "d6f82456b3ef8697435711e290ad971a6eecacce6f5ca908b70b6cddd391f896"
 metafile = true
 
 [[files]]
@@ -316,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/mo-structures.toml"
 hash = "76ce4cf02133a8247d97786c7e2168d34d9880acee1816707c356b833047f680"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.toml"
+hash = "a7ce99bea323c43689ed24524010ef252c48683b6a118ca68da3b2f9d590d47c"
 metafile = true
 
 [[files]]
@@ -360,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.toml"
-hash = "696574aeaeedd70b7ed01407109e20fd29f7c2fe8791a9830d1247613dbe0c6d"
+hash = "5482fa37a6b8c4bb865f3109c191c57f525237ab3c93085f08be2813a415525e"
 metafile = true
 
 [[files]]
@@ -409,13 +490,18 @@ hash = "f690b1ccba2a72c021479edf52af9b5900ace8dfa1dcdf29424f423e627c1d1f"
 metafile = true
 
 [[files]]
+file = "mods/rswires.toml"
+hash = "30c2f8eab914fe82c153ea58b3b4216ad97da62bfcd4eaac31a541b78c68836f"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.toml"
 hash = "f4a5950a5323517dcd55d5756153e11f4e9dd1ccc1358d080052629473558f05"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "c7bc85d088c4b635b14806526ccc035a150ef291400fbfa68e79ad52e63ebccd"
+hash = "cb5b221951e6ef5784e87c6087f1ce2ce1fb2c315028b86791cf22d74fae391a"
 metafile = true
 
 [[files]]
@@ -424,8 +510,13 @@ hash = "ebf079e351894b4c1593d6409f83c5518b8e2bfb41716f9bcdcc79a43baff0fc"
 metafile = true
 
 [[files]]
+file = "mods/sodium.toml"
+hash = "a0fa129729bb5d0ed3419558d2819116cc0b9d055f5f356c165207ab1762f89d"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.toml"
-hash = "59e02d12fd353d889c41e6de34a4be433fdcc68d3781578bc79dcb821d1932cc"
+hash = "32ef38323f829c292a38738cfe65c633832e266a99fc1063202771310d2305c7"
 metafile = true
 
 [[files]]

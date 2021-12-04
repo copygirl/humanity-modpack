@@ -1,0 +1,14 @@
+name = "EasyAutoCrafting"
+filename = "easy-auto-crafting-1.1+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3344/148/easy-auto-crafting-1.1+1.17.jar"
+hash-format = "murmur2"
+hash = "3086178090"
+
+[update]
+[update.curseforge]
+file-id = 3344148
+project-id = 462134
+release-channel = "beta"

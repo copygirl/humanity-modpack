@@ -3,7 +3,7 @@
 - [Artifacts] ![](docs/icon-curseforge.png) - *Aims to make exploration more rewarding by adding various powerful items*
 - [Charm] ![](docs/icon-modrinth.png) - *Core game changes in keeping with the Vanilla feel*
 - [Farmer's Delight] ![](docs/icon-curseforge.png) - *Gently expands upon farming and cooking in Minecraft*
-- [Immersive Portals] ![](docs/icon-modrinth.png) - *See through portals and teleport seamlessly*
+- [Immersive Portals] ![](docs/icon-curseforge.png) - *See through portals and teleport seamlessly*
 - [KubeJS] ![](docs/icon-curseforge.png) - *Create scripts in JavaScript to add and modify content*
 - [Rat's Mischief] ![](docs/icon-curseforge.png) - *About rats and mechanics surrounding them*
 - [Sync] ![](docs/icon-modrinth.png) - *One mind. Many bodies.*
@@ -12,7 +12,7 @@
 [Artifacts]: https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric
 [Charm]: https://modrinth.com/mod/charm
 [Farmer's Delight]: https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric
-[Immersive Portals]: https://modrinth.com/mod/immersiveportals
+[Immersive Portals]: https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod
 [KubeJS]: https://www.curseforge.com/minecraft/mc-mods/kubejs-fabric
 [Rat's Mischief]: https://www.curseforge.com/minecraft/mc-mods/rats-mischief
 [Sync]: https://modrinth.com/mod/sync-fabric
@@ -23,8 +23,7 @@
 
 - [Adorn] ![](docs/icon-modrinth.png) - *Decorate your home*
 - [Bedspreads] ![](docs/icon-curseforge.png) - *Allows players to add banner patterns to their beds*
-- ~~[Full Slabs] ![](docs/icon-modrinth.png) - *Adds vertical slabs and mixed horizontal and vertical slabs*~~  
-  **DISABLED**: Indium not compatible with the bundled Sodium version in Iris.
+- [Full Slabs] ![](docs/icon-modrinth.png) - *Adds vertical slabs and mixed horizontal and vertical slabs*
 
 [Adorn]: https://modrinth.com/mod/adorn
 [Bedspreads]: https://www.curseforge.com/minecraft/mc-mods/bedspreads-fabric
@@ -61,14 +60,17 @@
 ## Technology
 
 - [Ducts] ![](docs/icon-curseforge.png) - *This mod adds ducts*
+- [EasyAutoCrafting] ![](docs/icon-curseforge.png) - *Allows constructing automatic crafting machines utilizing vanilla blocks*
 - [Linked Storage] ![](docs/icon-curseforge.png) - *Allows you to link your inventories together*
 - [Minef*ck] ![](docs/icon-modrinth.png) - *Run Brainf\*ck code in Minecraft*
-- ~~[RSWires] ![](docs/icon-curseforge.png) - *Adds red alloy wire, insulated wire and bundled cables*~~  
-  **DISABLED**: Indium not compatible with the bundled Sodium version in Iris.
+- [Modern Industrialization] ![](docs/icon-modrinth.png) - *Standalone tech mod where the ultimate objective is total automation*
+- [RSWires] ![](docs/icon-curseforge.png) - *Adds red alloy wire, insulated wire and bundled cables*
 
 [Ducts]: https://www.curseforge.com/minecraft/mc-mods/ducts
+[EasyAutoCrafting]: https://www.curseforge.com/minecraft/mc-mods/easyautocrafting
 [Linked Storage]: https://www.curseforge.com/minecraft/mc-mods/linked-storage
 [Minef*ck]: https://modrinth.com/mod/minefck
+[Modern Industrialization]: https://modrinth.com/mod/modern-industrialization
 [RSWires]: https://www.curseforge.com/minecraft/mc-mods/rswires
 
 
@@ -76,6 +78,7 @@
 
 - [Iron Bundles] ![](docs/icon-modrinth.png) - *Higher-capacity bundles*
 - [BeeBuddy] ![](docs/icon-modrinth.png) - *Tameable bees and pride bees*
+- [Double Jump Mod] ![](docs/icon-curseforge.png) - *Treasure enchantment for boots to jump mid-air*
 - [GildedArmor] ![](docs/icon-modrinth.png) - *Can be used to make piglins peaceful*
 - [Kiln] ![](docs/icon-modrinth.png) - *Smelts stones, sands, bricks, and more*
 - [Mooblooms] ![](docs/icon-modrinth.png) - *A mod adding colorful and flowery cows*
@@ -86,6 +89,7 @@
 
 [Iron Bundles]: https://modrinth.com/mod/iron-bundles
 [BeeBuddy]: https://modrinth.com/mod/beebuddy
+[Double Jump Mod]: https://www.curseforge.com/minecraft/mc-mods/double-jump-mod
 [GildedArmor]: https://modrinth.com/mod/gildedarmor
 [Kiln]: https://modrinth.com/mod/kiln
 [Mooblooms]: https://modrinth.com/mod/mooblooms
@@ -104,6 +108,7 @@
 - [Fabrication] ![](docs/icon-curseforge.png) - *A large collection of vanilla tweaks and small features*
 - [Grind Enchantments] ![](docs/icon-modrinth.png) - *Disenchant and transfer enchantments using a grindstone*
 - [Independent Pets] ![](docs/icon-modrinth.png) - *Stop cats, wolves, parrots, and more from following/teleporting to you*
+- [Inventory Token] ![](docs/icon-curseforge.png) - *Makes the totem of undying effect work when its in the player's inventory*
 - [OverpoweredMending] ![](docs/icon-modrinth.png) - *Changes the behaviour of Mending to repair things in your inventory*
 - [Pitch Dark] ![](docs/icon-modrinth.png) - *Only allow hostile mobs to spawn in complete darkness*
 - [Quick Shulker] ![](docs/icon-curseforge.png) - *Quickly open Shulker Boxes, Ender Chests, Crafting Tables and Stonecutters*
@@ -120,6 +125,7 @@
 [Fabrication]: https://www.curseforge.com/minecraft/mc-mods/fabrication
 [Grind Enchantments]: https://modrinth.com/mod/grind-enchantments
 [Independent Pets]: https://modrinth.com/mod/indypets
+[Inventory Token]: https://www.curseforge.com/minecraft/mc-mods/inventory-totem-fabric
 [OverpoweredMending]: https://modrinth.com/mod/overpoweredmending
 [Pitch Dark]: https://modrinth.com/mod/pitch-dark
 [Quick Shulker]: https://www.curseforge.com/minecraft/mc-mods/quick-shulker
@@ -164,6 +170,7 @@
 
 - [Better Recipe Book] ![](docs/icon-modrinth.png) - *Adds a 'few' quality of life changes to the recipe book*
 - [ClickThrough] ![](docs/icon-modrinth.png) - *Click through signs and item frames to chests*
+- [Here be no Dragons!] ![](docs/icon-modrinth.png) - *Disable the "experimental world settings" warning screen *
 - [Inventory Hotswap] ![](docs/icon-curseforge.png) (optional) - *Allows the users to swap hotbar items with ones in the column above*
 - [InvMove] ![](docs/icon-modrinth.png) (optional) - *Adds the ability to walk around while in inventories*
 - [Item Scroller] ![](docs/icon-curseforge.png) (optional) - *Adds several ways of moving items in inventory GUIs*
@@ -173,6 +180,7 @@
 
 [Better Recipe Book]: https://modrinth.com/mod/brb
 [ClickThrough]: https://modrinth.com/mod/clickthrough
+[Here be no Dragons!]: https://modrinth.com/mod/here-be-no-dragons
 [Inventory Hotswap]: https://www.curseforge.com/minecraft/mc-mods/inventory-hotswap
 [InvMove]: https://modrinth.com/mod/invmove-fabric
 [Item Scroller]: https://www.curseforge.com/minecraft/mc-mods/item-scroller
@@ -189,10 +197,10 @@
 - [Item Model Fix] ![](docs/icon-curseforge.png) - *Fixes those transparent lines in all generated item models*
 - [Not Enough Animations] ![](docs/icon-curseforge.png) - *Brings missing third-person animations from first-person, or improves them*
 - [Quilt Loading Screen] ![](docs/icon-modrinth.png) - *A loading screen based off of The Quilt Community's server banner*
-- [Iris Shaders] ![](docs/icon-modrinth.png) (recommended) - *A shaders mod, backward compatible with OptiFine shaders*  
-  Bundled with [Sodium] ![](docs/icon-modrinth.png) - *Rendering engine replacement that greatly improves frame rates*
-    - [Complementary Shaders] ![](docs/icon-curseforge.png) (optional)
-    - [Sildur's Vibrant Shaders] ![](docs/icon-curseforge.png) (optional)
+- [Sodium] ![](docs/icon-modrinth.png) - *Modern rendering engine and client-side optimization mod*
+- [Iris Shaders] ![](docs/icon-modrinth.png) (optional) - *A shaders mod, backward compatible with OptiFine shaders*
+  - [Complementary Shaders] ![](docs/icon-curseforge.png) (optional)
+  - [Sildur's Vibrant Shaders] ![](docs/icon-curseforge.png) (optional)
 
 [Blur]: https://modrinth.com/mod/blur-fabric
 [Falling Leaves]: https://modrinth.com/mod/fallingleaves
@@ -201,7 +209,6 @@
 [Item Model Fix]: https://www.curseforge.com/minecraft/mc-mods/item-model-fix
 [Not Enough Animations]: https://www.curseforge.com/minecraft/mc-mods/not-enough-animations
 [Quilt Loading Screen]: https://modrinth.com/mod/quilt-loading-screen
-
 [Sodium]: https://modrinth.com/mod/sodium
 [Iris Shaders]: https://modrinth.com/mod/iris
 [Complementary Shaders]: https://www.curseforge.com/minecraft/customization/complementary-shaders

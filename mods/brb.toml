@@ -3,11 +3,11 @@ filename = "better-recipe-book-1.5.4-1.18.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/vWIaVOTE/versions/1.5.3-1.17/better-recipe-book-1.5.3-1.17.jar"
+url = "https://cdn.modrinth.com/data/vWIaVOTE/versions/1.5.4/better-recipe-book-1.5.4-1.18.jar"
 hash-format = "sha512"
-hash = "c5b5ab7a158b0ad6dff79433778f8651bd73a26cf3865a9b8183f21cb0bbadda2e748cf97636a412657b9ed421a03cd8fbadbfa9944111cb07ab1d943a013f29"
+hash = "514f54b2e87add224db587ef7e96719bd340e41f53f97e97a075bedab5c042b99f6d4cd8bd5dcc3285c1d93fb3ff4bbee3df3eb72dbbee80fa67e7d25f9934a3"
 
 [update]
 [update.modrinth]
 mod-id = "vWIaVOTE"
-version = "p4gHH9tK"
+version = "4mpuejW0"
