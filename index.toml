@@ -112,6 +112,11 @@ hash = "282d95496ff6fb5d37b461a4c37dbd4c3cfe5f43afcdca0e30eb54872f7e4ad9"
 metafile = true
 
 [[files]]
+file = "mods/guardians-galore.toml"
+hash = "d117a4ad963fa5730a6e45fbf6d9a3d930aca9b2ea065eea3609e584f844aad2"
+metafile = true
+
+[[files]]
 file = "mods/immersive-portals-mod.toml"
 hash = "9e3aeb1543fd6df4241c97caaeddd73c5c0a57fb3abdeada4e300e786bdbf4b6"
 metafile = true
