@@ -1,19 +1,14 @@
 name = "Simple Voice Chat"
-filename = "voicechat-fabric-1.17.1-2.1.19.jar"
+filename = "voicechat-fabric-1.18-2.1.20.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3548/642/voicechat-fabric-1.17.1-2.1.19.jar"
+url = "https://edge.forgecdn.net/files/3550/222/voicechat-fabric-1.18-2.1.20.jar"
 hash-format = "murmur2"
-hash = "3387207774"
+hash = "297176058"
 
 [update]
 [update.curseforge]
-file-id = 3548642
+file-id = 3550222
 project-id = 416089
 release-channel = "beta"
-
-[option]
-optional = true
-description = "Adds a proximity voice chat to your Minecraft server"
-default = true

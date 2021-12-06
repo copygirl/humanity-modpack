@@ -1,15 +1,15 @@
 name = "First-person Model (Forge/Fabric)"
-filename = "firstperson-fabric-2.1.0-mc1.17.1.jar"
+filename = "firstperson-fabric-2.1.0-mc1.18-pre1.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3519/863/firstperson-fabric-2.1.0-mc1.17.1.jar"
+url = "https://edge.forgecdn.net/files/3523/461/firstperson-fabric-2.1.0-mc1.18-pre1.jar"
 hash-format = "murmur2"
-hash = "2646149641"
+hash = "2160023069"
 
 [update]
 [update.curseforge]
-file-id = 3519863
+file-id = 3523461
 project-id = 333287
 release-channel = "beta"
 

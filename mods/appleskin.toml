@@ -1,13 +1,13 @@
 name = "AppleSkin"
-filename = "appleskin-fabric-mc1.17.1-2.2.0.jar"
+filename = "appleskin-fabric-mc1.18-2.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.17.1-2.2.0/appleskin-fabric-mc1.17.1-2.2.0.jar"
+url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.18-2.2.0/appleskin-fabric-mc1.18-2.2.0.jar"
 hash-format = "sha512"
-hash = "aa2c9e5c27493bd010e64a30186988ea4cea6de2d4ecda08489027ff8a408569f4abcfb7a2fa108643c201dcd5875b8fd85a80d2fc5714ff64529cfd21f5e895"
+hash = "1983bd2560cc36accf150fda8ec9d289e3f48b5e2de157711f657ce9f625ffa07a2bd6b9989c96a6d37e6354fbcf50c9a73211f8f9bafb57296cd39b72e4cb01"
 
 [update]
 [update.modrinth]
 mod-id = "EsAfCjCV"
-version = "tqCi5b3L"
+version = "c3j4Q3qi"

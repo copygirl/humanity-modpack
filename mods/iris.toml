@@ -1,18 +1,18 @@
 name = "Iris Shaders"
-filename = "iris-mc1.17-1.1.3.jar"
+filename = "iris-mc1.18-1.1.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/mc1.17.1-1.1.3/iris-mc1.17-1.1.3.jar"
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/mc1.18-1.1.3/iris-mc1.18-1.1.3.jar"
 hash-format = "sha512"
-hash = "a28042758fc8b8ec71c197b3cf18e3e4558a5219df673074910204383757113ebfa39aefba38a0b84c04d501005d7ab5ccee36dd747c69e64799c8764fc2fa3d"
+hash = "6939ff2672e645873d01c9eb55b43f7a81ebcb864d0ce9127f7fc6b8df0f490ab54d990da83c8f68757eb94c623e606bda27bec16fc4be31c7418df8d3272b7e"
 
 [update]
 [update.modrinth]
 mod-id = "YL57xq9U"
-version = "RtuAfhnO"
+version = "Hw3w5BnI"
 
 [option]
-optional = true
 description = "A shaders mod, backward compatible with OptiFine shaders"
+optional = true
 default = false

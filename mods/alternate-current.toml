@@ -1,13 +1,13 @@
 name = "Alternate Current"
-filename = "alternate-current-mc1.17-1.1.0.jar"
+filename = "alternate-current-mc1.18-1.1.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.17-1.1.0/alternate-current-mc1.17-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.18-1.1.0/alternate-current-mc1.18-1.1.0.jar"
 hash-format = "sha512"
-hash = "d6aa15fb0581e94d053cca07004f9ade688670bb024761293c62e103577c8fca9be1f7130d40d20960fa1ffb41c005b001420a66ed5d2dd45bc0805c77adefbd"
+hash = "56ba4440af90054efdbe34ca172f2f8eddfefc22ee3586e7072842135ac3ac6140202fdb8d67275e3d8cdab5663980eef28ebd40ba6209bd4aa31e755c11c203"
 
 [update]
 [update.modrinth]
 mod-id = "r0v8vy1s"
-version = "LynxUXOP"
+version = "9F6atBKt"

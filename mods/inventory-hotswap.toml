@@ -1,19 +1,19 @@
 name = "Inventory Hotswap"
-filename = "inventory-hotswap-fabric-1.17.1-1.3.0.jar"
+filename = "inventory-hotswap-fabric-1.18-1.3.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3382/693/inventory-hotswap-fabric-1.17.1-1.3.0.jar"
+url = "https://edge.forgecdn.net/files/3549/75/inventory-hotswap-fabric-1.18-1.3.jar"
 hash-format = "murmur2"
-hash = "3136394716"
+hash = "3201088213"
 
 [update]
 [update.curseforge]
-file-id = 3382693
+file-id = 3549075
 project-id = 423235
 release-channel = "beta"
 
 [option]
-description = "Allows the users to swap hotbar items with ones in the column above"
+description = "Swap hotbar items with ones in the column above"
 optional = true
-default = false
+default = true

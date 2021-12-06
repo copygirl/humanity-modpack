@@ -1,14 +1,14 @@
 name = "Ducts"
-filename = "ducts-1.1.4.jar"
+filename = "ducts-1.1.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3382/43/ducts-1.1.4.jar"
+url = "https://edge.forgecdn.net/files/3545/311/ducts-1.1.5.jar"
 hash-format = "murmur2"
-hash = "1778714914"
+hash = "3115999247"
 
 [update]
 [update.curseforge]
-file-id = 3382043
+file-id = 3545311
 project-id = 400219
 release-channel = "beta"

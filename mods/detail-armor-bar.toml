@@ -1,18 +1,18 @@
 name = "Detail Armor Bar"
-filename = "DetailArmorBar-2.6.1+1.17.1-fabric.jar"
+filename = "DetailArmorBar-2.6.1+1.18-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/hAt6ty93/versions/2.6.1/DetailArmorBar-2.6.1+1.17.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/hAt6ty93/versions/2.6.1+1.18/DetailArmorBar-2.6.1+1.18-fabric.jar"
 hash-format = "sha512"
-hash = "1df0303f2b740977d5d536a3ebdb640f655aa991d887363c3bc84b86b1832f76a693b2bdff25ac9efcc0005ff433cd030253a8753f2b60cc4021df7f017ce0d9"
+hash = "d49a24038fd5b00321a35996ea4027e4c5ae7983e21aeac356194bb4abeccb2e4f7a76c4801ea6e13232b948d25decfc893b52d3c176aabb797e197f8d9d645c"
 
 [update]
 [update.modrinth]
 mod-id = "hAt6ty93"
-version = "8gFWsg7v"
+version = "d0CLoHDR"
 
 [option]
-description = "More detail about armor in your armor bar"
+description = "More detail about armor in Armor bar"
 optional = true
 default = true

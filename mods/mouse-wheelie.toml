@@ -1,16 +1,17 @@
-name = "Mouse Wheelie"
-filename = "mousewheelie-1.8.0+mc1.17.1.jar"
+name = "Mouse Wheelie (Fabric)"
+filename = "mousewheelie-1.8.0+mc1.18-pre5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/1.8.0+mc1.17.1/mousewheelie-1.8.0+mc1.17.1.jar"
-hash-format = "sha512"
-hash = "2246661deea5d0c0528d5bfcb8a841dbabedc91a91007726994fd2b3a88fa5743b5e911acc21f0eca1da890ffe74209bfe1c21e6108f4c550ea2460f94ee4842"
+url = "https://edge.forgecdn.net/files/3538/698/mousewheelie-1.8.0+mc1.18-pre5.jar"
+hash-format = "murmur2"
+hash = "1381384174"
 
 [update]
-[update.modrinth]
-mod-id = "u5Ic2U1u"
-version = "FOq96T8x"
+[update.curseforge]
+file-id = 3538698
+project-id = 317514
+release-channel = "beta"
 
 [option]
 description = "Features item scrolling, inventory sorting, item refilling and more"

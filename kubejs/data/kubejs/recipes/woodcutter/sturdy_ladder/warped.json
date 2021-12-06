@@ -1,6 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": { "item": "minecraft:warped_planks" },
-    "result": "valley:ladder_warped",
-    "count": 1
-}

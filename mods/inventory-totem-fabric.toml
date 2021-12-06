@@ -1,14 +1,14 @@
 name = "Inventory Totem (Fabric)"
-filename = "inventorytotem-fabric_1.17.x-1.5.jar"
+filename = "inventorytotem-fabric_1.18.x-1.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3466/814/inventorytotem-fabric_1.17.x-1.5.jar"
+url = "https://edge.forgecdn.net/files/3542/208/inventorytotem-fabric_1.18.x-1.5.jar"
 hash-format = "murmur2"
-hash = "2884776763"
+hash = "1615190260"
 
 [update]
 [update.curseforge]
-file-id = 3466814
+file-id = 3542208
 project-id = 529954
 release-channel = "beta"

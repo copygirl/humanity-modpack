@@ -1,16 +1,16 @@
 name = "Falling Leaves"
-filename = "fallingleaves-1.7.4+1.17.1.jar"
+filename = "fallingleaves-1.8.0+1.18.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WhbRG4iK/versions/1.7.4/fallingleaves-1.7.4+1.17.1.jar"
+url = "https://cdn.modrinth.com/data/WhbRG4iK/versions/1.8.0/fallingleaves-1.8.0+1.18.jar"
 hash-format = "sha512"
-hash = "684642148f3191589571ef0522ba74b1dbf339701b7e87fc4c37443a16022e34cbd68b6d9b7d72f73e46f29a758a11e8f5be657534800390388dad5dfa39d6d2"
+hash = "a40c4a168344a4d513a7dad97633d159abc537639da167bdbf7cfe4f4ce952ef95351bc18569de97c6a1e4c66a076355f1a8f4c097795ce9f9270edca1e00622"
 
 [update]
 [update.modrinth]
 mod-id = "WhbRG4iK"
-version = "mqyNUioD"
+version = "gqfXCbT3"
 
 [option]
 description = "Adds a neat little particle effect to leaf blocks"

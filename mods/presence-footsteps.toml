@@ -13,5 +13,6 @@ mod-id = "rcTfTZr3"
 version = "3R7j6E4Z"
 
 [option]
-optional = true
 description = "New and improved dynamic sounds for every block the player walks on"
+optional = true
+default = false

@@ -1,6 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": { "item": "minecraft:acacia_planks" },
-    "result": "valley:ladder_acacia",
-    "count": 1
-}

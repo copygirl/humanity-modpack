@@ -15,6 +15,5 @@
   "modify_title_screen": true,
   "modify_game_menu": true,
   "hide_config_buttons": false,
-  "hidden_mods": [],
-  "log_deprecation_warnings": true
+  "hidden_mods": []
 }

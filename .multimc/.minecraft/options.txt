@@ -1,4 +1,4 @@
-version:2730
+version:2860
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -11,7 +11,6 @@ discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
 reducedDebugInfo:false
-snooperEnabled:true
 showSubtitles:false
 touchscreen:false
 fullscreen:false
@@ -19,12 +18,14 @@ bobView:true
 toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
+hideLightningFlashes:false
 mouseSensitivity:0.5
 fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:1.0
 renderDistance:12
+simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:3
 particles:0
@@ -32,12 +33,14 @@ maxFps:60
 difficulty:2
 graphicsMode:1
 ao:2
+prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods"]
+resourcePacks:["Fabric Mods"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
+soundDevice:
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
@@ -65,9 +68,11 @@ rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:true
 hideMatchedNames:true
-joinedFirstServer:true
+joinedFirstServer:false
 hideBundleTutorial:false
 syncChunkWrites:false
+showAutosaveIndicator:true
+allowServerListing:true
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
 key_key.forward:key.keyboard.w
@@ -102,35 +107,31 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_[Fabrication] Toggle/Hold Sprint:key.keyboard.unknown
-key_[Fabrication] Toggle Stance:key.keyboard.unknown
 key_[Fabrication] Crawl:key.keyboard.left.alt
+key_[Fabrication] Toggle Stance:key.keyboard.unknown
+key_[Fabrication] Toggle/Hold Sprint:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.f6
-key_inventoryhotswap.key.verticalscroll:key.keyboard.c
-key_inventoryhotswap.key.fullBarVerticalScroll:key.keyboard.z
-key_key.figura.actionwheel:key.keyboard.unknown
-key_key.full_slabs.toggle_vertical:key.keyboard.unknown
-key_key.full_slabs.toggle_widget:key.keyboard.unknown
+key_inventoryhotswap.key.verticalscroll:key.keyboard.unknown
+key_inventoryhotswap.key.fullBarVerticalScroll:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
-key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.f8
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
-key_key.lambdacontrols.look_up:key.keyboard.unknown
-key_key.lambdacontrols.look_right:key.keyboard.unknown
-key_key.lambdacontrols.look_down:key.keyboard.unknown
-key_key.lambdacontrols.look_left:key.keyboard.unknown
+key_key.lambdacontrols.look_up:key.keyboard.keypad.8
+key_key.lambdacontrols.look_right:key.keyboard.keypad.6
+key_key.lambdacontrols.look_down:key.keyboard.keypad.2
+key_key.lambdacontrols.look_left:key.keyboard.keypad.4
 key_presencefootsteps.settings.key:key.keyboard.f10
-key_key.stockpile.barrel_hat:key.keyboard.g
 key_key.push_to_talk:key.keyboard.caps.lock
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
-key_key.voice_chat:key.keyboard.v
+key_key.voice_chat:key.keyboard.n
 key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 soundCategory_master:0.5
-soundCategory_music:0.0
+soundCategory_music:0.5
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

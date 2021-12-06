@@ -11,8 +11,3 @@ hash = "d27e90e8545002e16bb13bc20175675c4559d78502b6ebff9c7d16454f895f201cce60c4
 [update.modrinth]
 mod-id = "VPU6VYVP"
 version = "3NzAz1wD"
-
-[option]
-description = "Loading screen based off of The Quilt Community's server banner"
-optional = true
-default = true

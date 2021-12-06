@@ -1,14 +1,14 @@
 name = "Patchouli (Fabric)"
-filename = "Patchouli-1.17.1-59-FABRIC.jar"
+filename = "Patchouli-1.18-60-FABRIC.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3540/261/Patchouli-1.17.1-59-FABRIC.jar"
+url = "https://edge.forgecdn.net/files/3543/61/Patchouli-1.18-60-FABRIC.jar"
 hash-format = "murmur2"
-hash = "1637612341"
+hash = "1460614838"
 
 [update]
 [update.curseforge]
-file-id = 3540261
+file-id = 3543061
 project-id = 393236
 release-channel = "beta"
