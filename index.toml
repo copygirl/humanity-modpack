@@ -17,10 +17,6 @@ file = "config/quilt-loading-screen.json"
 hash = "c9b843a1d89fbd86aa5e10f015d6ebad265897bfac6f2642f1f46a3c23073e86"
 
 [[files]]
-file = "config/shulkerboxtooltip.json5"
-hash = "a2c277958469fb0b3e046cd7a748fb6c96dc8045e103aa0c8f7cba6eafd2c004"
-
-[[files]]
 file = "mods/alternate-current.toml"
 hash = "ea9317f689a57e604a3495f375980952f12f5b3d8a3f05a33655573eea068bcc"
 metafile = true
@@ -47,12 +43,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.toml"
-hash = "ff271c633e859a5e436bbad29ba7c50afc54f72773abb44e40a04df0556b233f"
+hash = "8a0ec76502b26d22f217b3f0ca2862d3fcd9bc67ed8fe7a14fcf5477aeb1f622"
 metafile = true
 
 [[files]]
 file = "mods/clickthrough.toml"
-hash = "5cd9d556da7b43a80457173a9360ea919bcfafbc91c3bb2cd11a7c57a194bfce"
+hash = "c8f88f4a504285d2e2864466dbffbffc8130fc0b766dc23a89f8b05639d4e7b4"
 metafile = true
 
 [[files]]
@@ -107,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.toml"
-hash = "0f6693fcffbc89c0531b0b1cf72817c9dfe38c03ec766ffd676a7cd2244ba6ed"
+hash = "07f7ca3e803e0cc24b32bcca7ce68d61d03fe661e9745899db85f0f814027110"
 metafile = true
 
 [[files]]
@@ -132,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hotswap.toml"
-hash = "d3a282e197880b5074e909fb02f88356e77bdb3b7dd853fb310ec040dbdacfe6"
+hash = "d86953757acce2eacdbcde0b0704e81e785d32e9877205238ed136e5f1ee1ec6"
 metafile = true
 
 [[files]]
@@ -152,12 +148,12 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.toml"
-hash = "c6425fa602fdefe9b8129e6ddc54d64b0ba54ad694772cddbaa6ff8329724a88"
+hash = "f6946b9ac54bc2aed4a47833ef0437a623040cc0b1797ebbc46d80b6e31af21e"
 metafile = true
 
 [[files]]
 file = "mods/lambdacontrols.toml"
-hash = "eddc99761589703ac3acb90c1bc35406c862711c62b58d42e165d75f3d811ad1"
+hash = "a2569c129ac03a9c9bc664b1e40a1c65f6d310232d3a3e75889a7f92a12bc2e9"
 metafile = true
 
 [[files]]
@@ -182,12 +178,12 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "e688658fabed40d5ddaf03e4de8dbfb0252b16de8574c91afe6d04cedd11c7ab"
+hash = "d57a096bac1c13dea4295063eb9a59190393577fcbcf58a19318b8e84df1b69c"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.toml"
-hash = "9c25a8cd79a621896d0e9db13ff3b89b21dad4307ea61b356cf5b0dfbebc9414"
+hash = "4c8db2d7d62c4abfd46212bf62d2fa77cc5885486a3543cca379252927d19fcd"
 metafile = true
 
 [[files]]
@@ -262,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.toml"
-hash = "9ab04e96d76724622ccf5b7076e137afe05adac8a0215c03605dd022d136aefe"
+hash = "8208652c798d130689ad5a914ef9fe3cf0aea679fd7507e79203aa438067d90c"
 metafile = true
 
 [[files]]
