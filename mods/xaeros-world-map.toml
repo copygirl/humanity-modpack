@@ -1,0 +1,19 @@
+name = "Xaero's World Map"
+filename = "XaerosWorldMap_1.18.6.1_Fabric_1.18.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3551/769/XaerosWorldMap_1.18.6.1_Fabric_1.18.jar"
+hash-format = "murmur2"
+hash = "4162772185"
+
+[update]
+[update.curseforge]
+file-id = 3551769
+project-id = 317780
+release-channel = "beta"
+
+[option]
+description = "Self-writing fullscreen map"
+optional = true
+default = false

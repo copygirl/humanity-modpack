@@ -267,8 +267,23 @@ hash = "8208652c798d130689ad5a914ef9fe3cf0aea679fd7507e79203aa438067d90c"
 metafile = true
 
 [[files]]
+file = "mods/starlight.toml"
+hash = "3fba2d404a85b60f3f82e8014f2560dcf55cc62e5501309929171728e602de3e"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.toml"
 hash = "26f74f1f5af47fe1d6057567d966e4fba7d666da6efdca301b5fc8b5a1937a75"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "ebcd3c61ca083a1c690e9903857d7dfaa49869e910be7a7083c68110158a5e70"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "b1e1737c9ad11ba21fc2f16a6e88c96ad65dfa409822e83b748df49e44f62669"
 metafile = true
 
 [[files]]

@@ -62,9 +62,11 @@
 
 - [Alternate Current] ![](docs/icon-modrinth.png) - *An efficient and non-locational redstone dust implementation*
 - [Lithium] ![](docs/icon-modrinth.png) - *No-compromises game logic/server optimization mod*
+- [Starlight] ![](docs/icon-modrinth.png) - *Rewrites the light engine to fix lighting performance and lighting errors*
 
 [Alternate Current]: https://modrinth.com/mod/alternate-current
 [Lithium]: https://modrinth.com/mod/lithium
+[Starlight]: https://modrinth.com/mod/starlight
 
 
 ## Client-Side
@@ -76,12 +78,16 @@
 - [Detail Armor Bar] ![](docs/icon-modrinth.png) (recommended) - *More detail about armor in Armor bar*
 - [ModMenu] ![](docs/icon-modrinth.png) - *Adds a mod menu to view the list of mods you have installed*
 - [ShulkerBoxTooltip] ![](docs/icon-curseforge.png) (server also recommended) - *Allows you to see a preview window of a shulker box contents*
+- [Xaero's Minimap] ![](docs/icon-curseforge.png) (optional) - *Minimap which keeps the aesthetic of Vanilla*
+- [Xaero's World Map] ![](docs/icon-curseforge.png) (optional) - *Self-writing fullscreen map*
 
 [AppleSkin]: https://modrinth.com/mod/appleskin
 [Chat Heads]: https://www.curseforge.com/minecraft/mc-mods/chat-heads
 [Detail Armor Bar]: https://modrinth.com/mod/detail-armor-bar
 [ModMenu]: https://modrinth.com/mod/modmenu
 [ShulkerBoxTooltip]: https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip
+[Xaero's Minimap]: https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+[Xaero's World Map]: https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
 
 ### Utility
 
