@@ -117,8 +117,8 @@ hash = "d117a4ad963fa5730a6e45fbf6d9a3d930aca9b2ea065eea3609e584f844aad2"
 metafile = true
 
 [[files]]
-file = "mods/immersive-portals-mod.toml"
-hash = "9e3aeb1543fd6df4241c97caaeddd73c5c0a57fb3abdeada4e300e786bdbf4b6"
+file = "mods/immersiveportals.toml"
+hash = "3277e50f1bfa7eaa8d01a4b28b8bd45ed9edb0971df3dba78d1c07c66fc2bba9"
 metafile = true
 
 [[files]]
@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.toml"
-hash = "fd1d197111a3224be705e35d3d1dd1f8784f4081c8c4cdcc888b74b4f834507b"
+hash = "de94b2b3ba23d55c25022b1d22dc7e38dfd784329e11b79e38bf3f6c986d033c"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "4a2cb84aba922f5463bcaeb5c3f3726059431ad40cdfcce2b7f51c4f2fe060de"
+hash = "9b5a1e72ab0eac04697dec689b4971911090ce0e25fcd96b6ac291bb92361f19"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "6ed86f7f299b82d883f2bcac2c2e22da9d9dafe15ee82fd7c4aaaee5f5d4c93c"
+hash = "6d57a4f51ef1d8f91cefd9f0fdc704841f8dcfdec28d112a46fd5f03ecc30180"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "93c6544a762e0626219e190e185919968a9fc65e86edc3e82188c7bebd619304"
+hash = "7106ec905b3f465ee419ab93dcfdd9bba57d9e7b164224078db07b104b9e62db"
 metafile = true
 
 [[files]]
@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.toml"
-hash = "26f74f1f5af47fe1d6057567d966e4fba7d666da6efdca301b5fc8b5a1937a75"
+hash = "fba6c935896b76730ca8ba32b025a6953e8dd3b84f9765198de456515e0af4e7"
 metafile = true
 
 [[files]]

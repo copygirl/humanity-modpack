@@ -1,11 +1,11 @@
 ## Content
 
 - [Guardians Galore] ![](docs/icon-curseforge.png) - *Adds summonable mobs to guard your base!*
-- [Immersive Portals] ![](docs/icon-curseforge.png) - *See through portals and teleport seamlessly*
+- [Immersive Portals] ![](docs/icon-modrinth.png) - *See through portals and teleport seamlessly*
 - [Rat's Mischief] ![](docs/icon-curseforge.png) - *About rats and mechanics surrounding them*
 
 [Guardians Galore]: https://www.curseforge.com/minecraft/mc-mods/guardians-galore
-[Immersive Portals]: https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod
+[Immersive Portals]: https://modrinth.com/mod/immersiveportals
 [Rat's Mischief]: https://www.curseforge.com/minecraft/mc-mods/rats-mischief
 
 
