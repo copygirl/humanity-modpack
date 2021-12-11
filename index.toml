@@ -6,7 +6,11 @@ hash = "56922a75f546343cfe7fa5659b15035de9f2039e3f319c6260d2c347dd0c2a17"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "543f4ea36294f64a1dca5e286041b5b1b141f8b2eedb54ef4e0cb234fde4ebb1"
+hash = "5f6fe42e809138bdedfd5f335b9ee4c3d18a3c260f1080ff4200fee11d8b3fbe"
+
+[[files]]
+file = "config/fabrication/item_despawn.ini"
+hash = "adaa3809af2b41f796592ef18dc3842c5aec12e6ae9256b95c3c6c883eb2dbfe"
 
 [[files]]
 file = "config/quickshulkerconfig.json5"
