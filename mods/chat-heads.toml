@@ -1,14 +1,14 @@
 name = "Chat Heads"
-filename = "chat_heads-0.5.1-fabric-1.18.jar"
+filename = "chat_heads-0.6.0-fabric-1.18.1.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3543/108/chat_heads-0.5.1-fabric-1.18.jar"
+url = "https://edge.forgecdn.net/files/3570/678/chat_heads-0.6.0-fabric-1.18.1.jar"
 hash-format = "murmur2"
-hash = "1146531605"
+hash = "2957109700"
 
 [update]
 [update.curseforge]
-file-id = 3543108
+file-id = 3570678
 project-id = 407206
 release-channel = "beta"

@@ -1,0 +1,13 @@
+name = "Mining Cooldown Fix"
+filename = "mining-cooldown-fix-1.18.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QmciF0jA/versions/v1.0/mining-cooldown-fix-1.18.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "46d5b20e9cd7750da3e3765b9b789f2fed597f0c251b74cf31a3f1ee451e9e07bad1677e9cc545805782283cc0e5acfde63b12308e892b67a5ce06ddd4bef024"
+
+[update]
+[update.modrinth]
+mod-id = "QmciF0jA"
+version = "Xs8LCbkl"

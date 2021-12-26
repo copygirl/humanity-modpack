@@ -1,0 +1,8 @@
+name = "cardinal-components-entity"
+filename = "cardinal-components-entity-4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://ladysnake.jfrog.io/ui/api/v1/download?repoKey=mods&path=io%252Fgithub%252Fonyxstudios%252FCardinal-Components-API%252Fcardinal-components-entity%252F4.0.1%252Fcardinal-components-entity-4.0.1.jar"
+hash-format = "sha256"
+hash = "dc3459ca5f88495baddf58e7e313ead09ba15bf7104f41dc2efd13f59a948561"

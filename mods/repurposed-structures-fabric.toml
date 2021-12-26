@@ -1,13 +1,13 @@
 name = "Repurposed Structures - Fabric"
-filename = "repurposed_structures_fabric-3.1.7+1.18.0.jar"
+filename = "repurposed_structures_fabric-3.1.12+1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/muf0XoRe/versions/3.1.7+1.18.0/repurposed_structures_fabric-3.1.7+1.18.0.jar"
+url = "https://cdn.modrinth.com/data/muf0XoRe/versions/3.1.12+1.18.1/repurposed_structures_fabric-3.1.12+1.18.1.jar"
 hash-format = "sha512"
-hash = "5988e63d38ee2599cec25bc784e62d908ae10e22e595ecd1fdcb60cb8cb4ea49e1ad9ae3b42a5488b7dda6b51c21168776311ef05901e52ded549ccb5a67286c"
+hash = "79bb210a0083400ac0a2ba1771006e82c1bd3d08a46fa213adddc2008e9cfef9f78d07a1cbf44df6806cf8a61132a4163f0ce11c07f90cdfe576a0cd6542bbf1"
 
 [update]
 [update.modrinth]
 mod-id = "muf0XoRe"
-version = "UfYhlKLS"
+version = "Lje82pJ7"
