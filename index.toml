@@ -2,7 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "8b68f1c86988c8faaa50c17d0072490833a471d314fe22e48317e7c035d37477"
+hash = "b27027cd1ad1dce195f324d311681382817eedd9c63552f2ff793a8cc3279ed5"
+
+[[files]]
+file = "MODS.md"
+hash = "22be6c7eeb24177ad44652ae4863a8fc56389a65d5d4ff87228e67d355c19a8a"
+
+[[files]]
+file = "README.md"
+hash = "d57697510e27a1fae202be3ef070020e9719ec331ffb4aee1a2fa85f3f751390"
 
 [[files]]
 file = "config/axesareweapons.json5"
