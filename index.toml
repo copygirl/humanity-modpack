@@ -77,16 +77,6 @@ hash = "58d28456989f3cbaffe63b02e89373b436432b5f10743b7b171da8178e56b0ba"
 metafile = true
 
 [[files]]
-file = "mods/cardinal-components-base.toml"
-hash = "e2490c2da4d4ef989f4b8c5c26242f1088b52821b0a4029453be5e04d750762d"
-metafile = true
-
-[[files]]
-file = "mods/cardinal-components-entity.toml"
-hash = "4dc3631fb5aacbbe75324469d61448452bcd92ddb816e06e9f31d16c347b142a"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.toml"
 hash = "85d3f201f3462d92ed84512258588899c6a45bd265e637ad6d68cdfa4b5b1e4f"
 metafile = true
@@ -364,11 +354,6 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.toml"
 hash = "fba6c935896b76730ca8ba32b025a6953e8dd3b84f9765198de456515e0af4e7"
-metafile = true
-
-[[files]]
-file = "mods/victus.toml"
-hash = "7323e16fb5fa531af478e45d66db54d61409d758f7ec3a44ea66103b768a3df5"
 metafile = true
 
 [[files]]
