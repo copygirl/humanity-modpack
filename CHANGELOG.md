@@ -1,4 +1,4 @@
-## `v0.2.2` - The "Getting There" Update
+## `v0.3.0` - The "Getting There" Update
 
 Check the [readme](README.md) for how to update your existing MultiMC instance.
 
@@ -43,7 +43,6 @@ Check the [readme](README.md) for how to update your existing MultiMC instance.
 - Reroll
 - Stoneholm
 - Sync
-- Victus
 - When Dunegons Arise
 - Wolves With Armor
 

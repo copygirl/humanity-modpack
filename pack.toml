@@ -1,11 +1,11 @@
 name = "Humanity Modpack"
 author = "copygirl, Human"
-version = "0.2.2"
+version = "0.3.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "710036d92d4c0a1f5c4ebf0c878467df2e151372ad153832c7d52e0bb36f35db"
+hash = "40df89f58bb7a1c45d0216795dde9160fe5e539518162d66fb485e68160674d5"
 
 [versions]
 fabric = "0.12.12"
