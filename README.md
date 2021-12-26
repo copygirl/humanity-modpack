@@ -35,8 +35,8 @@ Alternatively, you can follow the installation steps again and set up a new inst
 
 ```sh
 # Download the packwiz bootstrapper and Fabric server launcher.
-wget https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar
-wget https://meta.fabricmc.net/v2/versions/loader/1.18.1/0.12.12/0.10.2/server/jar
+curl -OJ https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar
+curl -OJ https://meta.fabricmc.net/v2/versions/loader/1.18.1/0.12.12/0.10.2/server/jar
 
 # Download modpack files. Also run this to update.
 java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/copygirl/humanity-modpack/1.18/pack.toml
