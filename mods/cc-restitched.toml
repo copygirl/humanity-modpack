@@ -1,0 +1,13 @@
+name = "CC: Restitched"
+filename = "cc-restitched-1.99.2-alpha1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eldBwa5V/versions/1.99.2-alpha1/cc-restitched-1.99.2-alpha1.jar"
+hash-format = "sha512"
+hash = "c0c3532c1348915c6559cf10a34aa1d50356bf88228200a11289ab9494cd11fe8f049a9b0c96e885e16efc778b17b346811a60272225c501521afd7d3373b57e"
+
+[update]
+[update.modrinth]
+mod-id = "eldBwa5V"
+version = "cqqkoXt4"

@@ -77,6 +77,11 @@ hash = "58d28456989f3cbaffe63b02e89373b436432b5f10743b7b171da8178e56b0ba"
 metafile = true
 
 [[files]]
+file = "mods/cc-restitched.toml"
+hash = "9a30cc047727ddb0565dc4cb48b7d367f2f94713c52392d5f9571ba7a4a3f9b0"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.toml"
 hash = "85d3f201f3462d92ed84512258588899c6a45bd265e637ad6d68cdfa4b5b1e4f"
 metafile = true
@@ -247,6 +252,11 @@ hash = "6df2901dc48a91668839f31ebed4e4f2d59c5911b5c499e92c541544a0204824"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.toml"
+hash = "140afbf5bd1e9336cc9ea3bff071b09782fdf254134b8da17a72867a29fef753"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "113730a58c9e46dbf8b17632baf1fbafe4e24ccbb8d8b3e9898bf3f5a38f435c"
 metafile = true
@@ -302,6 +312,11 @@ hash = "e30448e525c9a78e545ce9cf8071b93d7a3ba4af9c7d34bb42c925afdc16e95e"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.toml"
+hash = "3b054187c858499cffb09d8cee0bd41abe4bfb0fd522f8f5dbdb87469c912eb5"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.toml"
 hash = "610026b6f846df450a9174995e4ff6e303d251db046745fb6ef5914826ecd992"
 metafile = true
@@ -354,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.toml"
 hash = "fba6c935896b76730ca8ba32b025a6953e8dd3b84f9765198de456515e0af4e7"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.toml"
+hash = "41d392a5949c99497dc99cdd522cd17637afc021d64eaef380a5c62206568875"
 metafile = true
 
 [[files]]
